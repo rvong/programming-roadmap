@@ -48,3 +48,6 @@
 * clean architecture
 * code coder
 * Practical Object Oriented Ruby, 99 Bottles of OOP (Sandi Metz)
+
+## how computers work
+* book: https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X
