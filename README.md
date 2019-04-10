@@ -4,6 +4,8 @@
 * Build Your Own: https://github.com/danistefanovic/build-your-own-x
 * https://functionalcs.github.io/curriculum/
 * https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
+* https://github.com/charlax/professional-programming
+* https://github.com/P1xt/p1xt-guides
 
 # talking people to follow
 * venkat subramanian
