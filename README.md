@@ -11,6 +11,13 @@
 * venkat subramanian
 * sandi metz
 
+# build your own
+* operating system (cpu scheduling, memory management, file system)
+* database management system
+* chat server and client
+* interpreter (https://interpreterbook.com/)
+* compiler
+
 # links
 * http://aosabook.org
 * http://highscalability.com
