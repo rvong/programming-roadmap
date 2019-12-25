@@ -11,6 +11,10 @@
 * venkat subramanian
 * sandi metz
 
+# scale
+* http://proto.actor/docs/performance (also: akka, .net - orleans, akka.net)
+* 
+
 # build your own
 * operating system (cpu scheduling, memory management, file system)
 * database management system
