@@ -13,7 +13,7 @@
 
 # scale
 * http://proto.actor/docs/performance (also: akka, .net - orleans, akka.net)
-* 
+* Actor: Orleans (halo server) Sergey Bykov: https://www.youtube.com/watch?v=2VcbH_b174E - Good talk - mentions jepsen test and stuff.
 
 # build your own
 * operating system (cpu scheduling, memory management, file system)
