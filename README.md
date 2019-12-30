@@ -7,6 +7,9 @@
 * https://github.com/charlax/professional-programming
 * https://github.com/P1xt/p1xt-guides
 
+# arch
+* https://www.bottomupcs.com/
+
 # talking people to follow
 * venkat subramanian
 * sandi metz
