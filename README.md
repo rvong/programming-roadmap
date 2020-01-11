@@ -8,6 +8,7 @@
 * https://github.com/P1xt/p1xt-guides
 
 # arch
+* http://aosabook.org/en/index.html
 * https://www.bottomupcs.com/
 
 # talking people to follow
