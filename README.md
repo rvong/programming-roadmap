@@ -6,6 +6,8 @@
 * https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
 * https://github.com/charlax/professional-programming
 * https://github.com/P1xt/p1xt-guides
+* https://teachyourselfcs.com/
+* https://serversforhackers.com/
 
 # arch
 * http://aosabook.org/en/index.html
