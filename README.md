@@ -70,3 +70,9 @@
 
 ## how computers work
 * book: https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X
+
+## Auth
+
+https://alexbilbie.com/guide-to-oauth-2-grants/
+https://oauth.net/2/grant-types/client-credentials/ 
+
