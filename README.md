@@ -1,3 +1,6 @@
+# awesome awesome
+* https://awesome-tech.readthedocs.io/about/
+
 # programming-roadmap
 * https://www.destroyallsoftware.com/talks/wat
 * https://www.destroyallsoftware.com/screencasts/catalog
