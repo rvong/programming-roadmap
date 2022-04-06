@@ -129,3 +129,18 @@
 * https://programmaticponderings.com/2015/06/05/building-a-microservices-based-rest-api-with-restexpress-java-ee-and-mongodb-part-3/
 * https://github.com/anderspitman/awesome-tunneling
 * 
+
+https://github.com/omarcostahamido/awesome-networked-media
+https://github.com/rtckit/awesome-rtc
+https://github.com/mehdihadeli/awesome-software-architecture
+https://awesome-architecture.com/
+http://highscalability.com/
+https://github.com/simskij/awesome-software-architecture
+https://www.amazon.com/Become-Awesome-Software-Architect-Foundation/dp/1697271065?asin=1697271065&revisionId=&format=4&depth=1
+
+Clean Architecture
+* https://wiki.nikitavoloboev.xyz/programming/software-architecture
+* https://wiki.nikitavoloboev.xyz/
+* http://www.programmingbydoing.com/
+* https://awesome-tech.readthedocs.io/sw-devel/
+* https://awesome-architecture.com/
