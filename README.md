@@ -8,6 +8,11 @@
 * https://github.com/P1xt/p1xt-guides
 * https://teachyourselfcs.com/
 * https://serversforhackers.com/
+* https://github.com/jkanive/The-path-of-software-development-craftsmanship
+* https://github.com/jkanive/google-interview-university
+* https://github.com/joho/awesome-code-review
+* https://www.freecodecamp.org/
+* https://github.com/ossu/computer-science
 
 # arch
 * http://aosabook.org/en/index.html
@@ -99,8 +104,25 @@
 
 ## Serverless
 * https://serverless-stack.com/
-
+* https://github.com/anaibol/awesome-serverless
 
 # Ambassdor 
 * https://www.digitalocean.com/community/tutorials/how-to-create-an-api-gateway-using-ambassador-on-digitalocean-kubernetes
 
+# Code Reviews
+* https://google.github.io/eng-practices/
+
+# https://plainenglish.io/
+* https://plainenglish.io/
+* https://github.com/EbookFoundation/free-programming-books
+* https://github.com/kamranahmedse/developer-roadmap
+* https://github.com/donnemartin/system-design-primer
+* https://github.com/public-apis/public-apis
+* https://github.com/DopplerHQ/awesome-interview-questions
+* https://github.com/danistefanovic/build-your-own-x
+* https://github.com/ripienaar/free-for-dev
+* https://github.com/ryanmcdermott/clean-code-javascript
+* https://www.amazon.com/Game-Hacking-Developing-Autonomous-Online/dp/1593276699
+* https://github.com/kovidomi/game-reversing
+* https://github.com/dhondta/awesome-executable-packing
+* https://github.com/dancancro/great-big-example-application
