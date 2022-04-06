@@ -147,3 +147,7 @@ Clean Architecture
 * http://www.programmingbydoing.com/
 * https://awesome-tech.readthedocs.io/sw-devel/
 * https://awesome-architecture.com/
+
+
+# PenTest
+* Mentions Oscar, XMPP: https://www.amazon.com/Effective-Python-Penetration-Testing-Rejah-ebook/dp/B01C2XX8XI/ref=sr_1_2?qid=1649214732&refinements=p_27%3ARejah+Rehim&s=books&sr=1-2 
