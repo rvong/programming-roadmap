@@ -126,3 +126,6 @@
 * https://github.com/kovidomi/game-reversing
 * https://github.com/dhondta/awesome-executable-packing
 * https://github.com/dancancro/great-big-example-application
+* https://programmaticponderings.com/2015/06/05/building-a-microservices-based-rest-api-with-restexpress-java-ee-and-mongodb-part-3/
+* https://github.com/anderspitman/awesome-tunneling
+* 
