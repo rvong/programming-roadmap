@@ -85,9 +85,9 @@
 * book: https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X
 
 ## Auth
-
 * https://alexbilbie.com/guide-to-oauth-2-grants/
 * https://oauth.net/2/grant-types/client-credentials/ 
+* https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
 
 
 ## Web Services
@@ -100,4 +100,7 @@
 ## Serverless
 * https://serverless-stack.com/
 
+
+# Ambassdor 
+* https://www.digitalocean.com/community/tutorials/how-to-create-an-api-gateway-using-ambassador-on-digitalocean-kubernetes
 
