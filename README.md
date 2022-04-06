@@ -73,6 +73,6 @@
 
 ## Auth
 
-https://alexbilbie.com/guide-to-oauth-2-grants/
-https://oauth.net/2/grant-types/client-credentials/ 
+* https://alexbilbie.com/guide-to-oauth-2-grants/
+* https://oauth.net/2/grant-types/client-credentials/ 
 
