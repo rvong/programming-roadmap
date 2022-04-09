@@ -151,3 +151,9 @@ Clean Architecture
 
 # PenTest
 * Mentions Oscar, XMPP: https://www.amazon.com/Effective-Python-Penetration-Testing-Rejah-ebook/dp/B01C2XX8XI/ref=sr_1_2?qid=1649214732&refinements=p_27%3ARejah+Rehim&s=books&sr=1-2 
+
+
+# Concepts
+* Memory mapped files performance
+* Actors, CSP, Channels, VirtualThreads/Greenthreads/Lightweight threads, Async, Reactive, Continuations (Akka, Loom, Mutiny, Kotlin Coroutines)
+* 
