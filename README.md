@@ -163,7 +163,11 @@ Clean Architecture
 * https://www.amazon.com/Systems-Performance-Brendan-Gregg/dp/0136820158 (mentions mem mapped files)
 * https://www.amazon.com/Architecting-Modern-Java-Applications-business-oriented/dp/1788393856 (mentions chronicle queue)
 * https://www.amazon.com/Cloud-Native-Java-Designing-Resilient/dp/1449374646
+* https://www.oreilly.com/library/view/mastering-api-architecture/9781492090625/
 
+# Java
+* https://learning-oreilly-com.ezproxy.spl.org/library/view/learning-java-5th/9781492056263/
+* 
 
 # Good Articles
 * https://www.brendangregg.com/blog/2022-03-19/why-dont-you-use.html
