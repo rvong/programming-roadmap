@@ -156,4 +156,14 @@ Clean Architecture
 # Concepts
 * Memory mapped files performance
 * Actors, CSP, Channels, VirtualThreads/Greenthreads/Lightweight threads, Async, Reactive, Continuations (Akka, Loom, Mutiny, Kotlin Coroutines)
-* 
+* Control Plane
+* Data Plane
+
+# Books
+* https://www.amazon.com/Systems-Performance-Brendan-Gregg/dp/0136820158 (mentions mem mapped files)
+* https://www.amazon.com/Architecting-Modern-Java-Applications-business-oriented/dp/1788393856 (mentions chronicle queue)
+* https://www.amazon.com/Cloud-Native-Java-Designing-Resilient/dp/1449374646
+
+
+# Good Articles
+* https://www.brendangregg.com/blog/2022-03-19/why-dont-you-use.html
