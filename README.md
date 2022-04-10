@@ -171,3 +171,7 @@ Clean Architecture
 
 # Good Articles
 * https://www.brendangregg.com/blog/2022-03-19/why-dont-you-use.html
+
+# Software Architecture
+* https://docs.microsoft.com/en-us/azure/architecture/
+* 
