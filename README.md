@@ -174,4 +174,7 @@ Clean Architecture
 
 # Software Architecture
 * https://docs.microsoft.com/en-us/azure/architecture/
+
+# Lectures
+* Hamming https://www.youtube.com/c/HammingonHammingLearningtoLearn
 * 
