@@ -171,10 +171,15 @@ Clean Architecture
 
 # Good Articles
 * https://www.brendangregg.com/blog/2022-03-19/why-dont-you-use.html
+* https://runacap.com/ross-index/q2-2021/ Low-code / No-code
+
+# DB
+* PingCAP TiDB
+
 
 # Software Architecture
 * https://docs.microsoft.com/en-us/azure/architecture/
 
 # Lectures
 * Hamming https://www.youtube.com/c/HammingonHammingLearningtoLearn
-* 
+
