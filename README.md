@@ -183,3 +183,7 @@ Clean Architecture
 # Lectures
 * Hamming https://www.youtube.com/c/HammingonHammingLearningtoLearn
 
+# Low code
+
+* https://learning-oreilly-com.ezproxy.spl.org/library/view/rapid-product-development/9781801817363/ 
+
