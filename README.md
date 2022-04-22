@@ -187,3 +187,5 @@ Clean Architecture
 
 * https://learning-oreilly-com.ezproxy.spl.org/library/view/rapid-product-development/9781801817363/ 
 
+# Networking
+https://www.destroyallsoftware.com/compendium/network-protocols
