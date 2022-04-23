@@ -189,3 +189,6 @@ Clean Architecture
 
 # Networking
 https://www.destroyallsoftware.com/compendium/network-protocols
+
+# Old School DDB
+https://www.youtube.com/watch?v=wjJ3Dkl6VS4 
