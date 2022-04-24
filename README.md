@@ -192,3 +192,6 @@ https://www.destroyallsoftware.com/compendium/network-protocols
 
 # Old School DDB
 https://www.youtube.com/watch?v=wjJ3Dkl6VS4 
+
+# Principles Data Intensive Systems (Class)
+* https://canvas.stanford.edu/courses/146728
