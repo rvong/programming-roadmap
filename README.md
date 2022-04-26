@@ -212,3 +212,7 @@ https://www.youtube.com/watch?v=wjJ3Dkl6VS4
 
 # Free stuff
 * https://free-for.dev/#/
+
+# SDLC
+* The ten phases of software lifecycle; including disposition (deprecation). https://www.justice.gov/archive/jmd/irm/lifecycle/table.htm
+
