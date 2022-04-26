@@ -207,6 +207,8 @@ https://www.youtube.com/watch?v=wjJ3Dkl6VS4
 * https://workshops.aws/
 * https://acloudguru.com/training-library/aws-cloud-training
 * https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials?scr=detail
+* https://tutorialsdojo.com/courses/aws-certified-solutions-architect-professional-practice-exams/
+* https://learn.cantrill.io/p/aws-certified-solutions-architect-professional
 
 # Free stuff
 * https://free-for.dev/#/
