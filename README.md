@@ -201,3 +201,11 @@ https://www.youtube.com/watch?v=wjJ3Dkl6VS4
 
 # Self-hosting
 * https://www.saashub.com/compare-dokku-vs-caprover
+
+# AWS
+* https://aws.amazon.com/training/ramp-up-guides/
+* https://workshops.aws/
+* https://acloudguru.com/training-library/aws-cloud-training
+
+# Free stuff
+* https://free-for.dev/#/
