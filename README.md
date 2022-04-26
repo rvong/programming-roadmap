@@ -196,5 +196,8 @@ https://www.youtube.com/watch?v=wjJ3Dkl6VS4
 # Principles Data Intensive Systems (Class)
 * https://canvas.stanford.edu/courses/146728
 
+# Stack
+* https://www.freecodecamp.org/news/how-to-build-a-todoapp-using-react-and-supabase/
+
 # Self-hosting
 * https://www.saashub.com/compare-dokku-vs-caprover
