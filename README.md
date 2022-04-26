@@ -206,6 +206,7 @@ https://www.youtube.com/watch?v=wjJ3Dkl6VS4
 * https://aws.amazon.com/training/ramp-up-guides/
 * https://workshops.aws/
 * https://acloudguru.com/training-library/aws-cloud-training
+* https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials?scr=detail
 
 # Free stuff
 * https://free-for.dev/#/
