@@ -216,3 +216,6 @@ https://www.youtube.com/watch?v=wjJ3Dkl6VS4
 # SDLC
 * The ten phases of software lifecycle; including disposition (deprecation). https://www.justice.gov/archive/jmd/irm/lifecycle/table.htm
 
+# Protocol: Fault tolerance mentions
+* https://github.com/capnproto/capnproto
+
