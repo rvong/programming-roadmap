@@ -219,3 +219,7 @@ https://www.youtube.com/watch?v=wjJ3Dkl6VS4
 # Protocol: Fault tolerance mentions
 * https://github.com/capnproto/capnproto
 
+# Blogs
+* https://seam.cs.umd.edu/purtilo/
+
+
